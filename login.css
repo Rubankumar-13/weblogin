@@ -1,0 +1,132 @@
+.Loginform{
+    background-image:url(./youtubechannel.png);
+    background-size: cover;
+}
+.heading{
+   text-align:center;
+   font-size: 30px;
+   font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   background-color:indigo;
+   background-repeat: no-repeat;
+   margin-top: 1px;
+   padding: 1px;
+   color: white;
+}
+.names{
+    margin: 10px;
+    padding: 10px 10px 10px 5px;
+    align-items: center;
+    width: 700px;
+    
+}
+.content-box1{
+    background-color: darkred;
+    border-radius: 5px;
+    align-items:center;
+    border-style: solid;
+    width: 530px;
+    padding: 10px;
+    font-size:20px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+.content-box2{
+    background-color: darkred;
+    border-radius: 5px;
+    border-style: solid;
+    width: 530px;
+    padding: 10px;
+    font-size:20px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    align-items:center;
+}
+.content-box3{
+    background-color: darkred;
+    border-radius: 5px;
+    border-style: solid;
+    width: 530px;
+    padding: 10px;
+    font-size:20px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    align-items:center;
+}
+.content-box4{
+    background-color: darkred;
+    border-radius: 5px;
+    border-style: solid;
+    width: 530px;
+    padding: 10px;
+    font-size:20px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    align-items:center;
+}
+.content-box5{
+    background-color: darkred;
+    border-radius: 5px;
+    border-style: solid;
+    width: 530px;
+    padding: 10px;
+    font-size:20px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    align-items:center;
+}
+.content-box6{
+    background-color: darkred;
+    border-radius: 5px;
+    border-style: solid;
+    width: 530px;
+    padding: 10px;
+    font-size:20px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    align-items:center;
+}
+#Firstname{
+    width: 500px;
+    height:30px;
+    border-bottom:2px solid black;
+    background-color: grey;
+}
+#Lastname{
+    width: 500px;
+    height:30px;
+    border-bottom:2px solid black;
+    background-color: grey;
+}
+#Department{
+    width: 500px;
+    height:30px;
+    border-bottom:2px solid black;
+    background-color: grey;
+}
+#Year{
+    width: 500px;
+    height:30px;
+    border-bottom:2px solid black;
+    background-color: grey;
+}
+#Domain{
+    width: 500px;
+    height:30px;
+    border-bottom:2px solid black;
+    background-color: grey;
+}
+#Country{
+    width: 500px;
+    height:30px;
+    border-bottom:2px solid black;
+    background-color: grey;
+}
+#button{
+    color: white;
+    background-color: darkslategray;
+    left: 10%;
+    width: 100px;
+    margin: 10px;
+    padding: 10px 20px 10px 5px;
+    
+}
