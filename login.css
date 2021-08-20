@@ -134,7 +134,7 @@
     .Loginform{
         background:fixed;
         background-color: black;
-        width: min-content;
+        width: fit-content;
     }
     .heading{
         width: fit-content;
