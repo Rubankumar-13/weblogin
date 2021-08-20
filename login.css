@@ -134,47 +134,52 @@
     .Loginform{
         background:fixed;
         background-color: black;
-        width: fit-content;
+        width: min-content;
+    }
+    .names{
+        width:30rem;
+        padding-left: 0%;
     }
     .heading{
-        width: fit-content;
+        width:95%;
     }
     .content-box1{
-        width: 60%;
+        width: 90%;
+        
     }
     .content-box2{
-        width: 60%;
+        width: 90%;
     }
     .content-box3{
-        width: 60%;
+        width: 90%;
     }
     .content-box4{
-        width: 60%;
+        width: 90%;
     }
     .content-box5{
-        width: 60%;
+        width: 90%;
     }
     .content-box6{
-        width: 60%;
+        width: 90%;
     }
     #Firstname{
-        width: 50%;
+        width: 70%;
     }
     #Lastname{
-        width: 50%;
+        width: 70%;
     }
     #Department
     {
-        width: 50%;
+        width: 70%;
     }
     #Year{
-        width: 50%;
+        width: 70%;
     }
     #Domain{
-        width: 50%;
+        width: 70%;
     }
     #Country{
-        width: 50%;
+        width: 70%;
     }
     }
 }
