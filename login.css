@@ -130,3 +130,51 @@
     padding: 10px 20px 10px 5px;
     
 }
+@media screen  and (max-width:800px) {
+    .Loginform{
+        background:fixed;
+        background-color: black;
+        width: min-content;
+    }
+    .heading{
+        width: fit-content;
+    }
+    .content-box1{
+        width: 60%;
+    }
+    .content-box2{
+        width: 60%;
+    }
+    .content-box3{
+        width: 60%;
+    }
+    .content-box4{
+        width: 60%;
+    }
+    .content-box5{
+        width: 60%;
+    }
+    .content-box6{
+        width: 60%;
+    }
+    #Firstname{
+        width: 50%;
+    }
+    #Lastname{
+        width: 50%;
+    }
+    #Department
+    {
+        width: 50%;
+    }
+    #Year{
+        width: 50%;
+    }
+    #Domain{
+        width: 50%;
+    }
+    #Country{
+        width: 50%;
+    }
+    }
+}
